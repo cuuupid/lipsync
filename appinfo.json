@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "KEY_DATA": 5
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Priansh Shah",
+    "longName": "MicSync",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MicSync",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "75fc5589-e13a-4532-9826-86af68a00358",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
